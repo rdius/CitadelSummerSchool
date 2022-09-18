@@ -1,5 +1,5 @@
 # CitadelSummerSchool
 
 ```
-pip install -r requirements.txt
+pip install -r requierements.txt
 ```
